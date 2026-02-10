@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "命日",
+  "base_artist": "CHANMINA",
+  "createdAt": "2026-02-10T11:52:10.957659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "命日 - Death Anniversary",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/01_命日_-_Death_Anniversary_CHANMINA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "命日",
+      "artist": "杏ノ雲",
+      "has_synced": true,
+      "path": "select/02_命日_杏ノ雲.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命日",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_命日_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "命日",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_02_命日_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "命日",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_03_命日_ちゃんみな.txt"
+    }
+  ]
+}
